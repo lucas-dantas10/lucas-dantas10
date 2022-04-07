@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Lucas Dantas 👋
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando React
+- 🌱 Estudando React e TypeScript
 - 📫 Contate-me no email: lucas.dantas.nogueira@gmail.com
 
 <div align="center">
