@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Lucas Dantas 👋
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando React e TypeScript
+- 🌱 Estudando React, SQL, MYSQL
 - 📫 Contate-me no email: lucas.dantas.nogueira@gmail.com
 
 <div align="center">
@@ -19,6 +19,7 @@
   <h3>Estudando</h3>
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
+  <img align="center" alt="Lucas-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   
 <div>
     <a href = "mailto:lucas.dantas.nogueira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
