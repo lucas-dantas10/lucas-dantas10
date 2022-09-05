@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Lucas Dantas 👋
 
 - 🔭 Hoje trabalho como FullStack
-- 🌱 Estudando SQL, MYSQL, Laravel
+- 🌱 Estudando SQL, MYSQL, Laravel, VueJs
 - 📫 Contate-me no email: lucas.dantas.nogueira@gmail.com
 
 <div align="center">
@@ -26,6 +26,7 @@
   <img align="center" alt="Lucas-Sqlite" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="Lucas-Mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Lucas-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="Lucas-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
   
   
 <div>
