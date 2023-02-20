@@ -3,6 +3,7 @@
 - 🔭 Hoje trabalho como FullStack
 - 🌱 Estudando Laravel, VueJs, Docker
 - 📫 Contate-me no email: lucas.dantas.nogueira@gmail.com
+- 🏻‍🚀Meu Portfólio: https://lucasdantas.netlify.app
 
 <div align="center">
   <a href="https://github.com/lucas-dantas10">
