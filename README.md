@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Lucas Dantas 👋
 
 - 🔭 Hoje trabalho como FullStack
-- 🌱 Estudando: React, Tailwind, Docker
+- 🌱 Estudando: React, Tailwind, Python, Docker
 - 📫 Contate-me no email: lucas.dantas.nogueira@gmail.com
 - 🏻‍🚀Meu Portfólio: https://lucasdantas.netlify.app
 
@@ -29,6 +29,7 @@
   <h3>Estudando</h3>
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="Lucas-Tailwind" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
 </div>
   
