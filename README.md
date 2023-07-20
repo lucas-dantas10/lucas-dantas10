@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Lucas Dantas 👋
 
 - 🔭 Hoje trabalho como FullStack
-- 🌱 Estudando: Tailwind, Python, C#
+- 🌱 Estudando: Python, C#
 - 📫 Contate-me no email: lucas.dantas.nogueira@gmail.com
 - 🏻‍🚀Meu Portfólio: https://lucasdantas.netlify.app
 
@@ -25,10 +25,10 @@
   <img align="center" alt="Lucas-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Lucas-MySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Lucas-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Lucas-Tailwind" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
 </div>
 <div style="display: inline_block"><br>
   <h3>Estudando</h3>
-  <img align="center" alt="Lucas-Tailwind" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
 </div>
