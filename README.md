@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Lucas Dantas 👋
 
 - 🔭 Hoje trabalho como FullStack
-- 🌱 Estudando: Python
+- 🌱 Estudando: C#
 - 📫 Contate-me no email: lucas.dantas.nogueira@gmail.com
 - 🏻‍🚀Meu Portfólio: https://lucasdantas.netlify.app
 
@@ -29,7 +29,7 @@
 </div>
 <div style="display: inline_block"><br>
   <h3>Estudando</h3>
-  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
 </div>
   
 <div>
