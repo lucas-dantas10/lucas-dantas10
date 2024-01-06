@@ -11,8 +11,8 @@
 ![LARAVEL](https://skillicons.dev/icons?i=laravel)
 ![VUEJS](https://skillicons.dev/icons?i=vuejs)
 ![PHP](https://skillicons.dev/icons?i=php)
-![DOCKER](https://skillicons.dev/icons?i=docker)
 ![TAILWINDCSS](https://skillicons.dev/icons?i=tailwindcss)
+![DOCKER](https://skillicons.dev/icons?i=docker)
 ![JAVASCRIPT](https://skillicons.dev/icons?i=js)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
@@ -30,6 +30,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-dantas10&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+## Onde me encontrar
 <div>
     <a href = "mailto:lucas.dantas.nogueira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/lucas-dantas10/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
