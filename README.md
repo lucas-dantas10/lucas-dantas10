@@ -3,7 +3,7 @@
 ## Olá!! Eu sou o Lucas Dantas 👋
 
 - 🔭 Hoje trabalho como FullStack
-- 🚀 Estudando: C# / .NET
+- 🚀 Estudando: C# / .NET / MongoDB
 - ✉️ Contate-me no email: lucas.dantas.nogueira@gmail.com
 - 🌎 Meu Portfólio: https://lucasdantas.netlify.app
 
@@ -22,6 +22,7 @@
 ## Estudando
 ![CS](https://skillicons.dev/icons?i=cs)
 ![DOTNET](https://skillicons.dev/icons?i=dotnet)
+![MONGODB](https://skillicons.dev/icons?i=mongodb)
 ## Estatísticas
 
 <div>
