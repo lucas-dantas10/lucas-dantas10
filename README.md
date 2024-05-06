@@ -9,6 +9,7 @@
 
 ## Minhas Skills
 ![LARAVEL](https://skillicons.dev/icons?i=laravel)
+![SYMFONY](https://skillicons.dev/icons?i=symfony)
 ![VUEJS](https://skillicons.dev/icons?i=vuejs)
 ![PHP](https://skillicons.dev/icons?i=php)
 ![TAILWINDCSS](https://skillicons.dev/icons?i=tailwindcss)
@@ -17,7 +18,7 @@
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![Sass](https://skillicons.dev/icons?i=sass)
+![SASS](https://skillicons.dev/icons?i=sass)
 
 ## Estudando
 ![CS](https://skillicons.dev/icons?i=cs)
