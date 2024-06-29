@@ -3,7 +3,7 @@
 ## Olá!! Eu sou o Lucas Dantas 👋
 
 - 🔭 Hoje trabalho como BackEnd
-- 🚀 Estudando: C# / .NET / MongoDB
+- 🚀 Estudando: Java / Spring Boot / MongoDB
 - ✉️ Contate-me no email: lucas.dantas.nogueira@gmail.com
 - 🌎 Meu Portfólio: https://lucasdantas.netlify.app
 
@@ -21,8 +21,7 @@
 ![SASS](https://skillicons.dev/icons?i=sass)
 
 ## Estudando
-![CS](https://skillicons.dev/icons?i=cs)
-![DOTNET](https://skillicons.dev/icons?i=dotnet)
+![SPRINGBOOT](https://skillicons.dev/icons?i=spring)
 ![MONGODB](https://skillicons.dev/icons?i=mongodb)
 ## Estatísticas
 
