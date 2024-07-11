@@ -2,7 +2,7 @@
 
 ## Olá!! Eu sou o Lucas Dantas 👋
 
-- 🔭 Hoje trabalho como BackEnd
+- 🔭 Hoje trabalho como Desenvolvedor Backend
 - 🚀 Estudando: Java / Spring Boot / MongoDB
 - ✉️ Contate-me no email: lucas.dantas.nogueira@gmail.com
 - 🌎 Meu Portfólio: https://lucasdantas.netlify.app
