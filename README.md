@@ -10,15 +10,15 @@
 ## Minhas Skills
 ![LARAVEL](https://skillicons.dev/icons?i=laravel)
 ![SYMFONY](https://skillicons.dev/icons?i=symfony)
-![VUEJS](https://skillicons.dev/icons?i=vuejs)
 ![PHP](https://skillicons.dev/icons?i=php)
-![DOCKER](https://skillicons.dev/icons?i=docker)
+![VUEJS](https://skillicons.dev/icons?i=vuejs)
 ![POSTGRESQL](https://skillicons.dev/icons?i=postgres)
 ![MYSQL](https://skillicons.dev/icons?i=mysql)
+![TAILWINDCSS](https://skillicons.dev/icons?i=tailwindcss)
+![DOCKER](https://skillicons.dev/icons?i=docker)
 ![JAVASCRIPT](https://skillicons.dev/icons?i=js)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
-![TAILWINDCSS](https://skillicons.dev/icons?i=tailwindcss)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![SASS](https://skillicons.dev/icons?i=sass)
 
