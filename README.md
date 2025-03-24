@@ -1,42 +1,34 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+# 👋 Olá, visitante!
 
-## Olá!! Eu sou o Lucas Dantas 👋
+😉 Não sei exatamente como você chegou aqui, mas vou compartilhar um pouco sobre mim. 
 
-- 🔭 Hoje trabalho como Desenvolvedor Backend
-- 🚀 Estudando: Java / Spring Boot / MongoDB
-- ✉️ Contate-me no email: lucas.dantas.nogueira@gmail.com
-- 🌎 Meu Portfólio: https://lucasdantas.netlify.app
+## 🌟 Informações Públicas
 
-## Minhas Skills
-![LARAVEL](https://skillicons.dev/icons?i=laravel)
-![SYMFONY](https://skillicons.dev/icons?i=symfony)
-![PHP](https://skillicons.dev/icons?i=php)
-![JAVA](https://skillicons.dev/icons?i=java)
-![VUEJS](https://skillicons.dev/icons?i=vuejs)
-![POSTGRESQL](https://skillicons.dev/icons?i=postgres)
-![MYSQL](https://skillicons.dev/icons?i=mysql)
-![TAILWINDCSS](https://skillicons.dev/icons?i=tailwindcss)
-![LINUX](https://skillicons.dev/icons?i=linux)
-![DOCKER](https://skillicons.dev/icons?i=docker)
-![JAVASCRIPT](https://skillicons.dev/icons?i=js)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![SASS](https://skillicons.dev/icons?i=sass)
+Meu nome é **Lucas Dantas**. Atualmente, moro no **Rio de Janeiro, Brasil** e meu objetivo é aumentar meu conhecimento na área e ajudar outros desenvolvedores a aumentarem o conhecimento junto comigo. 🚀
 
-## Estudando
-![SPRINGBOOT](https://skillicons.dev/icons?i=spring)
-![MONGODB](https://skillicons.dev/icons?i=mongodb)
-## Estatísticas
+No meu tempo livre, gosto de criar projetos novos e desafiadores paa estudo de stack/tecnologia, também gosto de ajudar outros desenvolvedores no seu crescimento 🤝
 
-<div>
-  <a href="https://github.com/lucas-dantas10">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucas-dantas10&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-dantas10&layout=compact&langs_count=7&theme=radical"/>
-</div>
+## 📝 Informações Detalhadas
 
-## Onde me encontrar
-<div>
-    <a href = "mailto:lucas.dantas.nogueira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/lucas-dantas10/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+<!-- Coloque suas informações pessoais que você deseja compartilhar -->
+
+- 👤 **Nome:** Lucas Dantas   
+- 🎂 **Idade:** 21   
+- 📍 **Localização:** Rio de Janeiro, RJ - Brasil   
+- 💻 **Stack:** Symfony, Laravel, Spring Boot, Docker, Apache, RabbitMQ, PostgreSql, Oracle, MySql   
+- 📚 **Aprendizado Atual:** Spring Boot, Testes unitários/integração, Arquitetura de Software, Computação em Nuvem   
+- 🎓 **Formação:** Cursando Sistemas de Infornação   
+- 🏆 **Conquistas:** Receber um prémio de destaque do ano como desenvolvedor: [imagem conquista](https://github.com/user-attachments/assets/05b4adce-4059-45b3-bc41-8a8916be7f5c)
+
+
+   
+
+## 😎 Curiosidades sobre Mim
+
+<!-- Coloque alguma curiosidade pra mostrar que você não é só código -->
+
+- 🎮 Sou apaixonado por games e séries. 
+- 💡 Comecei a programar em **2021** e, desde então, venho me desafiando e aprendendo coisas novas.   
+- 🤗 Acredito no poder da colaboração e estou sempre disposto(a) a ajudar quem busca evoluir na área de tecnologia.      
+
+---
