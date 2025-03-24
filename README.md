@@ -29,6 +29,6 @@ No meu tempo livre, gosto de criar projetos novos e desafiadores paa estudo de s
 
 - 🎮 Sou apaixonado por games e séries. 
 - 💡 Comecei a programar em **2021** e, desde então, venho me desafiando e aprendendo coisas novas.   
-- 🤗 Acredito no poder da colaboração e estou sempre disposto(a) a ajudar quem busca evoluir na área de tecnologia.      
+- 🤗 Acredito no poder da colaboração e estou sempre disposto a ajudar quem busca evoluir na área de tecnologia.      
 
 ---
