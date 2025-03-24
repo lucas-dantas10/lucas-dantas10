@@ -17,7 +17,7 @@ No meu tempo livre, gosto de criar projetos novos e desafiadores paa estudo de s
 - 📍 **Localização:** Rio de Janeiro, RJ - Brasil   
 - 💻 **Stack:** Symfony, Laravel, Spring Boot, Docker, Apache, RabbitMQ, PostgreSql, Oracle, MySql   
 - 📚 **Aprendizado Atual:** Spring Boot, Testes unitários/integração, Arquitetura de Software, Computação em Nuvem   
-- 🎓 **Formação:** Cursando Sistemas de Infornação   
+- 🎓 **Formação:** Cursando Sistemas de Informação 
 - 🏆 **Conquistas:** Receber um prémio de destaque do ano como desenvolvedor: [imagem conquista](https://github.com/user-attachments/assets/05b4adce-4059-45b3-bc41-8a8916be7f5c)
 
 
