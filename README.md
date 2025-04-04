@@ -10,8 +10,6 @@ No meu tempo livre, gosto de criar projetos novos e desafiadores paa estudo de s
 
 ## 📝 Informações Detalhadas
 
-<!-- Coloque suas informações pessoais que você deseja compartilhar -->
-
 - 👤 **Nome:** Lucas Dantas   
 - 🎂 **Idade:** 21   
 - 📍 **Localização:** Rio de Janeiro, RJ - Brasil   
@@ -20,15 +18,15 @@ No meu tempo livre, gosto de criar projetos novos e desafiadores paa estudo de s
 - 🎓 **Formação:** Cursando Sistemas de Informação 
 - 🏆 **Conquistas:** Receber um prémio de destaque do ano como desenvolvedor: [imagem conquista](https://github.com/user-attachments/assets/05b4adce-4059-45b3-bc41-8a8916be7f5c)
 
-
-   
-
 ## 😎 Curiosidades sobre Mim
-
-<!-- Coloque alguma curiosidade pra mostrar que você não é só código -->
 
 - 🎮 Sou apaixonado por games e séries. 
 - 💡 Comecei a programar em **2021** e, desde então, venho me desafiando e aprendendo coisas novas.   
 - 🤗 Acredito no poder da colaboração e estou sempre disposto a ajudar quem busca evoluir na área de tecnologia.      
+
+## 📞 Contato
+- 🎨 **Portfólio:** https://lucasdantas.netlify.app
+- 💼 **LinkedIn:** https://www.linkedin.com/in/lucas-dantas10
+- ✉️ **Email:** lucas.dantas.nogueira@gmail.comm
 
 ---
