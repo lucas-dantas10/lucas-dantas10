@@ -11,7 +11,7 @@ No meu tempo livre, gosto de criar projetos novos e desafiadores paa estudo de s
 ## 📝 Informações Detalhadas
 
 - 👤 **Nome:** Lucas Dantas   
-- 🎂 **Idade:** 21   
+- 🎂 **Idade:** 22
 - 📍 **Localização:** Rio de Janeiro, RJ - Brasil   
 - 💻 **Stack:** Symfony, Laravel, Spring Boot, Docker, Apache, RabbitMQ, PostgreSql, Oracle, MySql   
 - 📚 **Aprendizado Atual:** Spring Boot, Testes unitários/integração, Arquitetura de Software, Computação em Nuvem   
