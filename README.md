@@ -25,7 +25,7 @@ No meu tempo livre, gosto de criar projetos novos e desafiadores paa estudo de s
 - 🤗 Acredito no poder da colaboração e estou sempre disposto a ajudar quem busca evoluir na área de tecnologia.      
 
 ## 📞 Contato
-- 🎨 **Portfólio:** https://lucasdantas.netlify.app
+- 🎨 **Portfólio:** https://lucasdantas.vercel.app/#/
 - 💼 **LinkedIn:** https://www.linkedin.com/in/lucas-dantas10
 - ✉️ **Email:** lucas.dantas.nogueira@gmail.comm
 
